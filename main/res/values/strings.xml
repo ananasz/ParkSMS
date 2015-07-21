@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ParkSMS</string>
+
+    <string name="menu_settings">Beállítások</string>
+    <string name="menu_about">Az alkalmazásról</string>
+
+    <string name="main_welcome">Üdv! Ide jöhet vmi leírás, hogy mi történik.</string>
+</resources>
